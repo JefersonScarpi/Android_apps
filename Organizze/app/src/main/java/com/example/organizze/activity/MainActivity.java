@@ -18,6 +18,7 @@ public class MainActivity extends IntroActivity {
 
     private FirebaseAuth autenticacao;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

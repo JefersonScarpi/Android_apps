@@ -41,6 +41,8 @@ dependencies {
     implementation 'com.google.firebase:firebase-database:19.4.0'
     implementation 'com.google.firebase:firebase-auth:19.4.0'
 
+    implementation 'com.github.prolificinteractive:material-calendarview:1.4.3'
+
 }
 
 apply plugin: 'com.android.application'
